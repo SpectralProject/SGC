@@ -1,0 +1,2 @@
+# SGC
+Spectral Graphics Compiler
